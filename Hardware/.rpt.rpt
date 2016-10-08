@@ -1,0 +1,20 @@
+** Drc report for C:\Users\John\Documents\Products\Travis\ATmegaXXM1_Breakout\Hardware\ATmegaXXM1_Breakout.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 4 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (4.1500 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13 net GND
+    @ (3.8750 in,2.1000 in): Pad 7 on F.Cu, B.Cu, Internal, Non-copper of P3
+ErrType(2): Unconnected pads
+    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14 net GND
+    @ (2.3000 in,2.9500 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P1
+ErrType(2): Unconnected pads
+    @ (4.1500 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15 net GND
+    @ (3.8750 in,3.0063 in): Pad 8 on F.Cu, Non-copper of U3
+ErrType(2): Unconnected pads
+    @ (2.3000 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12 net GND
+    @ (2.4000 in,2.0000 in): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of P8
+
+** End of Report **
