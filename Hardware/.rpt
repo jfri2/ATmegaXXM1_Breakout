@@ -1,83 +1,8 @@
 ** Drc report for C:/Users/John/Documents/Products/Travis/ATmegaXXM1_Breakout/Hardware/ATmegaXXM1_Breakout.kicad_pcb **
 ** Created on  **
 
-** Found 20 DRC errors **
-ErrType(19): Pad near pad
-    @ (56.395 mm,40.640 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
-    @ (58.420 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
-ErrType(19): Pad near pad
-    @ (56.395 mm,83.185 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
-    @ (58.420 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
-ErrType(19): Pad near pad
-    @ (56.988 mm,39.208 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
-    @ (58.420 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
-ErrType(19): Pad near pad
-    @ (56.988 mm,42.072 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
-    @ (58.420 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
-ErrType(19): Pad near pad
-    @ (56.988 mm,81.753 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
-    @ (58.420 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
-ErrType(19): Pad near pad
-    @ (56.988 mm,84.617 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
-    @ (58.420 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
-ErrType(19): Pad near pad
-    @ (58.420 mm,38.615 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
-    @ (58.420 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
-ErrType(19): Pad near pad
-    @ (58.420 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
-    @ (58.420 mm,42.665 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
-ErrType(19): Pad near pad
-    @ (58.420 mm,81.160 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
-    @ (58.420 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
-ErrType(19): Pad near pad
-    @ (58.420 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
-    @ (58.420 mm,85.210 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
-ErrType(19): Pad near pad
-    @ (103.385 mm,40.640 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
-    @ (105.410 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
-ErrType(19): Pad near pad
-    @ (103.385 mm,83.185 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
-    @ (105.410 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
-ErrType(19): Pad near pad
-    @ (103.978 mm,39.208 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
-    @ (105.410 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
-ErrType(19): Pad near pad
-    @ (103.978 mm,42.072 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
-    @ (105.410 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
-ErrType(19): Pad near pad
-    @ (103.978 mm,81.753 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
-    @ (105.410 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
-ErrType(19): Pad near pad
-    @ (103.978 mm,84.617 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
-    @ (105.410 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
-ErrType(19): Pad near pad
-    @ (105.410 mm,38.615 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
-    @ (105.410 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
-ErrType(19): Pad near pad
-    @ (105.410 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
-    @ (105.410 mm,42.665 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
-ErrType(19): Pad near pad
-    @ (105.410 mm,81.160 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
-    @ (105.410 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
-ErrType(19): Pad near pad
-    @ (105.410 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
-    @ (105.410 mm,85.210 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
+** Found 0 DRC errors **
 
-** Found 5 unconnected pads **
-ErrType(2): Unconnected pads
-    @ (105.410 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13 net GND
-    @ (98.425 mm,53.340 mm): Pad 7 on F.Cu, B.Cu, Internal, Non-copper of P3
-ErrType(2): Unconnected pads
-    @ (58.420 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14 net GND
-    @ (58.420 mm,74.930 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P1
-ErrType(2): Unconnected pads
-    @ (105.410 mm,83.185 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15 net GND
-    @ (98.425 mm,76.360 mm): Pad 8 on F.Cu, Non-copper of U3
-ErrType(2): Unconnected pads
-    @ (58.420 mm,40.640 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12 net GND
-    @ (60.960 mm,50.800 mm): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of P8
-ErrType(2): Unconnected pads
-    @ (88.265 mm,45.720 mm): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of P4 net AVR_MISO
-    @ (58.420 mm,45.720 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P8
+** Found 0 unconnected pads **
 
 ** End of Report **

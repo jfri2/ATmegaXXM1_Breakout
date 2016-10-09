@@ -1,11 +1,68 @@
 ** Drc report for C:\Users\John\Documents\Products\Travis\ATmegaXXM1_Breakout\Hardware\ATmegaXXM1_Breakout.kicad_pcb **
 ** Created on  **
 
-** Found 0 DRC errors **
+** Found 20 DRC errors **
+ErrType(19): Pad near pad
+    @ (2.2203 in,1.6000 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
+    @ (2.3000 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
+ErrType(19): Pad near pad
+    @ (2.2203 in,3.2750 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
+    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
+ErrType(19): Pad near pad
+    @ (2.2436 in,1.5436 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
+    @ (2.3000 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
+ErrType(19): Pad near pad
+    @ (2.2436 in,1.6564 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
+    @ (2.3000 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
+ErrType(19): Pad near pad
+    @ (2.2436 in,3.2186 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
+    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
+ErrType(19): Pad near pad
+    @ (2.2436 in,3.3314 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
+    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
+ErrType(19): Pad near pad
+    @ (2.3000 in,1.5203 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
+    @ (2.3000 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
+ErrType(19): Pad near pad
+    @ (2.3000 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P12
+    @ (2.3000 in,1.6797 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P12
+ErrType(19): Pad near pad
+    @ (2.3000 in,3.1953 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
+    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
+ErrType(19): Pad near pad
+    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14
+    @ (2.3000 in,3.3547 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P14
+ErrType(19): Pad near pad
+    @ (4.0703 in,1.6000 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
+    @ (4.1500 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
+ErrType(19): Pad near pad
+    @ (4.0703 in,3.2750 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
+    @ (4.1500 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
+ErrType(19): Pad near pad
+    @ (4.0936 in,1.5436 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
+    @ (4.1500 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
+ErrType(19): Pad near pad
+    @ (4.0936 in,1.6564 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
+    @ (4.1500 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
+ErrType(19): Pad near pad
+    @ (4.0936 in,3.2186 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
+    @ (4.1500 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
+ErrType(19): Pad near pad
+    @ (4.0936 in,3.3314 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
+    @ (4.1500 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
+ErrType(19): Pad near pad
+    @ (4.1500 in,1.5203 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
+    @ (4.1500 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
+ErrType(19): Pad near pad
+    @ (4.1500 in,1.6000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P13
+    @ (4.1500 in,1.6797 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P13
+ErrType(19): Pad near pad
+    @ (4.1500 in,3.1953 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
+    @ (4.1500 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
+ErrType(19): Pad near pad
+    @ (4.1500 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P15
+    @ (4.1500 in,3.3547 in): Pad on F.Cu, B.Cu, Internal, Non-copper of P15
 
-** Found 1 unconnected pads **
-ErrType(2): Unconnected pads
-    @ (2.3000 in,3.2750 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P14 net GND
-    @ (2.3000 in,2.9500 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P1
+** Found 0 unconnected pads **
 
 ** End of Report **
